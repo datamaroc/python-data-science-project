@@ -18,4 +18,4 @@ A comprehensive Python project for performing basic data processing and calculat
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/datamaroc/python-data-science-project.git
